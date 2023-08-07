@@ -123,7 +123,8 @@ func insertPrice(price *ExchangeRate) error {
 	defer cancel()
 
 	db.WithContext(ctx).Create(&Exchange{
-		ExchangeRate: *price})
+		ExchangeRate: *price,
+	})
 
 	return nil
 }

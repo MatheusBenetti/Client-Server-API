@@ -1,0 +1,1 @@
+Dólar: map[USDBRL:map[ask:4.9009 bid:4.8999 code:USD codein:BRL create_date:2023-08-07 17:59:59 high:4.9141 low:4.8685 name:Dólar Americano/Real Brasileiro pctChange:0.56 timestamp:1691441999 varBid:0.0271]]
